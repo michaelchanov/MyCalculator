@@ -1,2 +1,2 @@
 # MyCalculator
-Hey everyone recently I've coded a calculator.Check it out!
+Hey everyone recently I've coded a calculator.It's on master branch.Check it out!
